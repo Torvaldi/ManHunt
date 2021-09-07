@@ -1,0 +1,6 @@
+main: fr.torvald.manHunt.ManHunt
+name: ManHunt
+version: 1.0.0
+author: Quentin 'Torvald' LAURENT
+description: A plugin to play gamemode manhunt into Minecraft
+api-version: "1.17"
